@@ -1,0 +1,7 @@
+ahmet  çadýr  182 ; 98
+emel  yolcu  176 ; 67
+ayþe  keskin 160 ; 92
+aynur  milas 165 ; 58
+veli  durmuþ 172 ; 78
+hüseyin  ateþ 178 ; 102
+mahmut  küçük 182 ; 89
