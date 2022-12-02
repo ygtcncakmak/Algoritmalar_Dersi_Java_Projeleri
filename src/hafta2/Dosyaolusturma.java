@@ -1,14 +1,15 @@
 package hafta2;
+
 import java.io.File;
 
 public class Dosyaolusturma {
     public static void main(String[] args) throws Exception {
-
+        excelolustur();
     }
 
     public static void excelolustur() {
         // src dosyası içinde bir file nesnesi oluşturuyoruz
-        File file = new File("src/output.csv");
+        File file = new File("src/hafta2/output.csv");
 
         try {
             // file nesnesine bağlı bir code oluşturuyoruz
